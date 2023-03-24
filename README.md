@@ -80,3 +80,5 @@ more `GET` endpoints.
 [http://localhost:5000]: http://localhost:5000
 [http://localhost:5000/posts]: http://localhost:5000/posts
 [Postman breakdown]: https://appacademy-open-assets.s3.us-west-1.amazonaws.com/Modular-Curriculum/content/week-08/assets/postman_visual_Basic_HTTP.png
+
+Finished up the exercise
